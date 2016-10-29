@@ -7,6 +7,7 @@ Hackathon BRB Campus Day - 29/10-05/11/2016
   - analisar situação / perfil do jovem (ver chat oiwarren)
 
 - Planejamento
+  - quais as vantagens de se fazer um planejamento? Quanto perderia com base em um empréstimo
   - acompanhamento p/ atingir um "Objetivo", "Sonho"
   - amadurecer o sonho de consumo - deixar "suspenso"
   - fazer com que o usuário analise a economia X compensação ( ex: vale a pena comprar algo mais barato, revender e comprar o mais caro no futuro? )
