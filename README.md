@@ -28,4 +28,3 @@ Hackathon BRB Campus Day - 29/10-05/11/2016
   - drops
   - limite de gastos
   - banco de experiências
-
